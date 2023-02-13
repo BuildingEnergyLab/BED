@@ -1,5 +1,20 @@
-# BED
+# Building Eenrgy Datasets (BED)
 The Existing Open-source/non-open-source Datasets related to Building Energy of various Time Granularity
+
+
+
+## Missions
+
+- [ ] Problem Definition: Define the problem you want to solve, the goals you want to achieve, and the data you need.
+- [ ] Data Collection: Gather relevant data from various sources and store it in a suitable format for analysis.
+- [ ] Data Cleaning: Remove any irrelevant, incomplete, or inconsistent data from the dataset. This includes removing duplicates, correcting errors, and handling missing data.
+- [ ] Data Integration: Combine data from different sources and formats to create a single dataset for analysis.
+- [ ] Data Transformation: Convert the data into a suitable format for analysis. This includes feature engineering, normalization, and data discretization.
+- [ ] Data Mining: Apply various techniques such as classification, clustering, regression, and association rule mining to the prepared dataset.
+- [ ] Pattern Evaluation: Evaluate the patterns and insights discovered in the previous step, including the accuracy, completeness, and usefulness of the results.
+- [ ] Knowledge Representation: Present the results in a suitable format, such as tables, charts, and graphs, to facilitate understanding and decision-making.
+- [ ] Deployment: Deploy the results to the relevant stakeholders, such as business executives, data analysts, or end-users, to take appropriate actions based on the insights obtained.
+- [ ] Monitoring: Monitor the results to assess their performance over time and to detect any changes or anomalies in the data.
 
 
 
@@ -131,6 +146,14 @@ This dataset, published in the journal Energy, is not openly available. It conta
 [Global Building Network (GBN) Dataset](https://www.ghgprotocol.org/standards/buildings/standard-resources/global-building-network-dataset)
 
 This dataset, published by the Greenhouse Gas Protocol, is not openly available. It contains energy consumption data and building characteristics data for a variety of building types in different countries around the world. The dataset is currently being updated and expanded.
+
+
+
+## Project status
+
+This project is currently under development. We will continuously update this project.
+
+
 
 
 
